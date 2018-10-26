@@ -1,0 +1,19 @@
+
+@import "../../../../Style.scss";
+
+.fa-toggle-on, .fa-toggle-off{
+   float: right;
+
+}
+
+.AdminPurchaseTxtWrap{@extend %font-helvetica;	font-size: 14px;	line-height: 17px;display: inline-block;}
+.AdminWrapHeader, .ContributorWrapHeader{@include paddingTopBottom(40px); font-weight: 700;}
+
+.AdminBoxWrap, .ContributorBoxWrap {
+    box-shadow: 0 2px 4px 0 #E7E8EA;
+    background-color: #FFFFFF;
+    max-width: 500px; 
+    height: 420px;
+    margin-right: 20px ;
+    margin-top:20px 
+}

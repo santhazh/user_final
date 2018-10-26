@@ -1,0 +1,14 @@
+{
+
+    "UserDetail":[
+        {
+            "fullName": "",
+            "groupId": 2,
+            "roleType": "Contributor",
+            "email": "test1@overstock.com",
+            "groupName": "DEV Group",
+            "id": 101
+        }
+    ]
+    
+    }
